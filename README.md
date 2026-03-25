@@ -1,7 +1,7 @@
-Clicca sul pulsante Code (o Codice) e seleziona Download ZIP.
-Una volta terminato il download, fai clic con il tasto destro sul file ZIP e scegli Estrai tutto.
-Apri la cartella estratta.
-Avvia il file homepage.html con il tuo browser.
+Cliccare sul pulsante Code (o Codice) e selezionare Download ZIP.
+Una volta terminato il download, fare clic con il tasto destro sul file ZIP e scegliere Estrai tutto.
+Aprire la cartella estratta.
+Aprire il file homepage.html con il browser.
 
 -------------------------------------------------------------------------------------------------------------
 
